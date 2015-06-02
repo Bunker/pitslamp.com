@@ -1,8 +1,7 @@
-# PitsLamp.com
-Work in progress.
-
-npf.io
+PitsLamp.com
 ===
+
+Work in progress
 
 This is the code behind the site [pitslamp.com](http://www.pitslamp.com), used by
 [Hugo](http://hugo.spf13.com) to generate a static html site.
