@@ -1,0 +1,30 @@
+<div class="hentry">
+	<div class="post-content">
+	<div class="post-aside test">												
+		<div class="byline">Date: <abbr class="published">{{ .Date.Format "Jan 2, 2006" }}</abbr></div>				
+		<div class="byline">Category: 
+			<span class="category">
+				{{ range .Params.categories }}
+				    <a href="/categories/{{ . | urlize }}">{{ . }}</a>, 
+				  {{ end }}
+			</span>
+		</div>				
+		<div class="entry-meta">
+			<span class="post_tag">
+				<span class="before">Tags: </span>
+				{{ range .Params.tags }}
+				    <a href="/tags/{{ . | urlize }}">{{ . }}</a>, 
+				{{ end }}
+			</span>
+		</div>
+	</div>
+	<div class="blog-content">
+		<h2 class="entry-title">
+			<a href="{{ .Permalink }}" title="{{ .Title }}" rel="bookmark">{{ .Title }}</a>
+		</h2>				
+		<div class="entry-content">
+		{{ .Content }}
+		</div><!-- .entry-content -->
+	</div><!-- .post-content -->
+</div>
+</div>

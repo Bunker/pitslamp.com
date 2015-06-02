@@ -1,0 +1,14 @@
+{{ partial "head.html" . }}
+
+<body class="blog">
+	{{ partial "header.html" . }}
+	{{ partial "navbar.html" . }}
+	</div>
+	<div id="main">
+		<h1>{{ .Title }}</h1>
+		{{ .Content }}
+	</div>
+	{{ partial "footer.html" . }}
+	{{ partial "script.html" . }}
+</body>
+</html>

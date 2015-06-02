@@ -1,0 +1,8 @@
+{{ range .Paginator.Pages }}
+    {{ if eq .Type  "post" }}
+        {{ .Render "list"}}
+    {{ end }}
+{{ end }}
+
+{{ partial "pagination.html" . }}
+

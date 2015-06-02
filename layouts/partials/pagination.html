@@ -1,0 +1,19 @@
+{{ $pag := $.Paginator }}
+	<div class="pagination loop-pagination">
+		{{if .Paginator.HasPrev}}
+		    <a class="previous page-numbers" href="{{ .Paginator.Prev.URL }}">￩ Previous</a>
+		{{end}}
+		{{ range .Paginator.Pagers }}
+			{{ if eq . $pag }}
+				<span class="page-numbers current">
+					{{ .PageNumber }}
+				</span>
+			{{ else }}
+				<a class="page-numbers" href="{{ .URL }}">
+					{{ .PageNumber }}
+				</a>
+			{{ end }}
+		{{ end }}
+	{{if .Paginator.HasNext}}
+	    <a class="next page-numbers" href="{{ .Paginator.Next.URL }}">Next →</a>
+	{{end}}

@@ -1,0 +1,53 @@
+  {{ partial "head.html" . }}
+  <body class="singular">
+	{{ partial "header.html" . }}
+    {{ partial "navbar.html" . }}
+	</div>
+	<div id="main">
+		<div id="content">
+			<div class="hfeed">
+				<div id="post" class="hentry post publish post-1 odd author-pitslamp format-gallery category-clients category-i-shoot-people category-portrait category-varia post_tag-alexandre-lartaux post_tag-bifff post_tag-cosplay post_tag-predator">
+			<div class="post-content">
+				<div class="post-aside test">								
+					<h1 class="post-title entry-title">{{ .Title }}</h1>				
+					<div class="byline">Date: <abbr class="published">{{ .Date.Format "Jan 2, 2006" }}</abbr></div>				
+					<div class="byline">Category: 
+						<span class="category">
+							{{ range .Params.categories }}
+							    <a href="/categories/{{ . | urlize }}">{{ . }}</a>, 
+							  {{ end }}
+						</span>
+					</div>				
+					<div class="entry-meta">
+						<span class="post_tag">
+							<span class="before">Tags: </span>
+							{{ range .Params.tags }}
+							    <a href="/tags/{{ . | urlize }}">{{ . }}</a>, 
+							{{ end }}
+						</span>
+					</div>
+					<div class="loop-nav">
+						{{ if .Prev }}
+						<div class="next">
+							<a href="{{.Prev.Permalink}}" rel="Next"><span class="post-nav-text">&larr; Next:</span> {{ .Prev.Title }}</a>
+						</div>
+						{{ end }}
+						{{ if .Next }}
+						<div class="previous">
+							<a href="{{.Next.Permalink}}"><span class="post-nav-text">&rarr; Previous:</span> {{ .Next.Title }}</a>
+						</div>
+					</div><!-- .loop-nav -->
+					{{ end }}
+				</div>
+			<div class="entry-content">
+					{{ .Content }}
+				</div><!-- .entry-content -->
+			</div><!-- .post-content -->
+		</div><!-- .hentry -->
+	</div><!-- .hfeed -->
+</div><!-- #content -->
+</div><!-- #main -->
+    {{ partial "footer.html" . }}
+    {{ partial "script.html" . }}
+ </body>
+</html>

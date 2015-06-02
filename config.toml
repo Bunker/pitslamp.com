@@ -1,0 +1,39 @@
+BaseURL = "http://www.pitslamp.com"
+languageCode = "en-us"
+title = "PitsLamp Photography"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+canonifyurls = false
+paginate = 10
+paginatePath = "page"
+pluralizeListTitles = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  logo = "/wp-content/uploads/2015/03/logo_pitslampcom.png"
+  description = "I shoot people"
+  email = "info@pitslamp.com"
+  shortDescription = "testing short desc."
+  blabla = "hello, ik blabla"
+  author = "Filip Bunkens"
+  SidebarRecentLimit = 5
+
+[[menu.main]]
+    name = "Home"
+    pre = ""
+    weight = -110
+    identifier = "Home"
+    url = "/"
+[[menu.main]]
+	name="Blog"
+	pre= ""
+	weigth = 0
+	identifier = "blog"
+	url = "/blog/"
+

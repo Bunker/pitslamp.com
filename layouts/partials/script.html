@@ -1,0 +1,30 @@
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+
+<script>
+/* <![CDATA[ */
+
+var jqu = jQuery.noConflict();
+
+jqu( function () {
+
+	/* Fancybox */
+	jqu( "a[href$='.jpg'], a[href$='.jpeg'], a[href$='.png'], a[href$='.gif']" ).attr( 'rel', 'lightbox' );
+	jqu( "a[rel^='lightbox']" ).fancybox( { 
+		transitionIn: 'elastic', 
+		transitionOut: 'elastic', 
+		overlayShow: false, 
+		titleShow: 'inside', 
+		cyclic: true, 
+		speedIn: 400, 
+		speedOut: 300, 
+		titlePosition: 'inside',
+		 } );	
+	
+	/* FitVids */
+	jqu( ".entry-content" ).fitVids();
+	
+} );
+
+/* ]]> */
+</script>
