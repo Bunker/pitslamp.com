@@ -1,6 +1,0 @@
-<h1>Blog</h1>
-{{ range .Data.Pages }}
-    {{ if eq .Type  "post" }}
-        {{ .Render "list"}}
-    {{ end }}
-{{ end }}
