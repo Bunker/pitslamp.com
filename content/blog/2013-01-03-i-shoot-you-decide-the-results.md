@@ -41,7 +41,7 @@ The project ran from the 24th november till the 24th of december. During this pe
   * 1 couple, 2 sisters, 1 family and 1 portraitshoot
   * 20 to 30 photos per shoot
 
-The question I heard the most was: &#8220;Aren&#8217;t you going to cut in your own flesh with this project?&#8221; Here are the numbers
+The question I heard the most was: &#8220;Aren't you going to cut in your own flesh with this project?&#8221; Here are the numbers
 
   * 2 to 3 times transport, 2h of shoots and at least 2h darkroom work
   * Cost of the material for every shoot: 50 euro
@@ -50,8 +50,8 @@ The question I heard the most was: &#8220;Aren&#8217;t you going to cut in your 
   * Average extra order: 75 euro
   * Average total amount per shoot: 265 euro
 
-As the results show, the perceived value of the shoot is very close to the price I put on the shoot. I&#8217;m satisfied with the results and had loads of fun working with these clients.
+As the results show, the perceived value of the shoot is very close to the price I put on the shoot. I'm satisfied with the results and had loads of fun working with these clients.
 
-Due to the success I&#8217;ll repeat the I shoot, you decide project again at certain points in time. Every time the package will change a bit. Follow here for more info.
+Due to the success I'll repeat the I shoot, you decide project again at certain points in time. Every time the package will change a bit. Follow here for more info.
 
  [1]: /wp-content/uploads/2013/01/helena.jpg

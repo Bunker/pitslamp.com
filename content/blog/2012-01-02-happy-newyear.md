@@ -8,7 +8,7 @@ categories:
   - Varia
 format: gallery
 ---
-**Because of different visions, we have parted ways and I&#8217;m no longer a part of Stijlhard.**
+**Because of different visions, we have parted ways and I'm no longer a part of Stijlhard.**
 
 <a href="http://pitslamp.com/blog/20120102_happy-newyear/stijlwanted-2" rel="attachment wp-att-413"><img src="/wp-content/uploads/2012/01/STIJLWANTED1.jpg" alt="" title="STIJLWANTED" width="600" class="alignnone size-full wp-image-413" /></a>
 
@@ -16,4 +16,4 @@ format: gallery
 
 Stijlhard is an agency for everything concept and image related. We do video, photography, graphic design. We start with your idea, convert it into a concept and realize it into an end product. For more info go and checkout <a href="http://www.stijlhard.com" title="Stijlhard" rel="contact met">our website</a>.
 
-As for my blog, I&#8217;ll try to post more regularly, so that you all can stay update on what&#8217;s going on at the PitsLamp offices. I&#8217;m planning to rock 2012 with my existing and new customers.
+As for my blog, I'll try to post more regularly, so that you all can stay update on what's going on at the PitsLamp offices. I'm planning to rock 2012 with my existing and new customers.

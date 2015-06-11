@@ -19,7 +19,7 @@ Last night while returning from an assignment with <a href="http://www.pietervan
 
 Curious and us both being photographers with my gear in the trunk we could not pass up on the opportunity to turn back and go shoot some photos. The above photo is one of them, you can find more on [Flickr][2].
 
-This morning I sold the photos to Het Laatste Nieuws and they will be published in the paper of monday. That&#8217;s how I like to start the weekend.
+This morning I sold the photos to Het Laatste Nieuws and they will be published in the paper of monday. That's how I like to start the weekend.
 
  [1]: http://www.flickr.com/photos/loneblackrider/7009895777/ "Fire at Gasstation Wetteren - E40 by PitsLamp photography, on Flickr"
  [2]: http://www.flickr.com/photos/loneblackrider/sets/72157629654210081/ "Burning gas station, on Flickr"

@@ -19,7 +19,7 @@ format: gallery
 ---
 [<img src="/wp-content/uploads/2013/04/large_format-0236-600x400.jpg" alt="Large format view camera" width="600" height="400" class="alignnone size-large wp-image-764" />][1]
 
-Since I started in photography, there has been one type of camera that I wanted, a large format camera. There always have been reasons not to buy the camera, first I didn&#8217;t do any film. Since I shoot film, I haven&#8217;t found any kit for an affordable price until a week or 2 ago. On a local classified site, I found a very affordable 4&#215;5 view camera.
+Since I started in photography, there has been one type of camera that I wanted, a large format camera. There always have been reasons not to buy the camera, first I didn't do any film. Since I shoot film, I haven't found any kit for an affordable price until a week or 2 ago. On a local classified site, I found a very affordable 4&#215;5 view camera.
 
 [<img src="/wp-content/uploads/2013/04/20130416_4x5-Polaroid-3-600x751.jpg" alt="Large format view camera portrait: Pieter" width="600" height="751" class="alignnone size-large wp-image-763" />][2]
 

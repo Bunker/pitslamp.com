@@ -30,6 +30,6 @@ Once in a while, everything seems to work out, just as you hoped. This was the c
 
 The Nissan Leaf had just been cleaned, the location was gorgeous and the evening sun was casting a marvelous light on the arc. The only thing I could think of was, putting the car in a good position and start shooting. The only thing that could go wrong, would have been when the law passed by.
 
-A quick edit in Lightroom and you get a result, that not only pleases your client, but also gives you a nice portfolio image. That&#8217;s all it takes sometimes.
+A quick edit in Lightroom and you get a result, that not only pleases your client, but also gives you a nice portfolio image. That's all it takes sometimes.
 
  [1]: /wp-content/uploads/2013/02/20121211_abb_autoworld-8281.jpg

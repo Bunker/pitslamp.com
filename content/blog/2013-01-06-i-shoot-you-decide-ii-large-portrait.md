@@ -32,7 +32,7 @@ The &#8220;I shoot, you decide&#8221; package contains:
   * A <a href="http://en.wikipedia.org/wiki/Contact_print" title="Contact print on wikipedia" rel="none">contact print</a> with all the photos
   * 1 handmade and signed darkroom print in a size of 50x60cm on quality paper.
 
-If you have questions about how this all works, you can check out the following blogposts <a href="http://pitslamp.com/blog/20121128_faq-i-shoot-you-decide" title="FAQ: I shoot, you decide: PitsLamp Photography" rel="me">FAQ: I shoot, you decide</a> or <a href="http://pitslamp.com/blog/20130103_i-shoot-you-decide-the-results" title="I shoot, you decide: the results: PitsLamp Photography" rel="Me">I shoot, you decide: the results</a>. But if you have any other questions, don&#8217;t hesitate to qsk them.
+If you have questions about how this all works, you can check out the following blogposts <a href="http://pitslamp.com/blog/20121128_faq-i-shoot-you-decide" title="FAQ: I shoot, you decide: PitsLamp Photography" rel="me">FAQ: I shoot, you decide</a> or <a href="http://pitslamp.com/blog/20130103_i-shoot-you-decide-the-results" title="I shoot, you decide: the results: PitsLamp Photography" rel="Me">I shoot, you decide: the results</a>. But if you have any other questions, don't hesitate to qsk them.
 
 Book the shoot now by filling out the <a href="http://www.pitslamp.com/contact" title="Contact form" rel="me">contact form</a> or call me at +32 486 36 29 61
 

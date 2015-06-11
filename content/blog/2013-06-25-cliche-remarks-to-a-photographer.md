@@ -23,9 +23,9 @@ As a photographer there are a number of clichés remarks that photographers hear
 
 Here is a list of the most heard remarks.
 
-## Paper doesn&#8217;t like me.
+## Paper doesn't like me.
 
-This is the one I hear the most. It gives me the impression that most people don&#8217;t like themself. As a photographer I&#8217;m responsible for making sure everybody looks good on a photo, so with a remark like that you are basically telling me I&#8217;m not good at my job, even before you so any results.
+This is the one I hear the most. It gives me the impression that most people don't like themself. As a photographer I'm responsible for making sure everybody looks good on a photo, so with a remark like that you are basically telling me I'm not good at my job, even before you so any results.
 
 ## Made any good photos lately, it has to with such a camera|
 
@@ -35,15 +35,15 @@ Aside from the previous, it does not matter what type of camera I use, when you 
 
 For me the camera is a tool, a way to achieve a result. Obtaining the result with one camera may be easier than with another, but even with the most expensive and most advanced camera in the world, you can still make bad pictures.
 
-## You can photoshop, can&#8217;t you?
+## You can photoshop, can't you?
 
-A remark made by women as well as men. Yes I do make some adjustments on a photo, like colour, contrast and cadrage, however I&#8217;m not going to photoshop 300 photos.
+A remark made by women as well as men. Yes I do make some adjustments on a photo, like colour, contrast and cadrage, however I'm not going to photoshop 300 photos.
 
-I did not become photographer, to spend hours behind a computer, photoshopping wrinkles and excessive fat. I don&#8217;t like converting an honest portrait into a barbie.
+I did not become photographer, to spend hours behind a computer, photoshopping wrinkles and excessive fat. I don't like converting an honest portrait into a barbie.
 
 ## Hey, hey take my picture
 
-A remark made whenever somebody finds him or herself interesting and mostly combined with alcohol intoxication. If I want a photo, I&#8217;ll ask you or make it. However it can get worse, when that somebody interferes with a shoot I&#8217;m doing for other people, who payed for my time and expertise. Keep in mind that the photo I do make if you ask for it probably won&#8217;t make the cut after all.
+A remark made whenever somebody finds him or herself interesting and mostly combined with alcohol intoxication. If I want a photo, I'll ask you or make it. However it can get worse, when that somebody interferes with a shoot I'm doing for other people, who payed for my time and expertise. Keep in mind that the photo I do make if you ask for it probably won't make the cut after all.
 
 ## Can you join our party/show/birth/&#8230;, do bring your camera.
 
@@ -53,12 +53,12 @@ You can read my answer to this remark over at <a href="http://pitslamp.com/blog/
 
 Followed by a computer, iPad, iPhone or even a camera, with x thousand photos of their travel companion in front of some great view, photographed in the middle of the day and/or flashed (in very bad light). After about 100 photos my interest is gone, even it are photos from the best photographer in the world. Just make a selection and only show the 100 best.
 
-Also I don&#8217;t like to comment on photos if they are not from a fellow photographer, nobody wants to hear my comments on their photos, they just want to have the bragging rights, that a photographer liked their photos.
+Also I don't like to comment on photos if they are not from a fellow photographer, nobody wants to hear my comments on their photos, they just want to have the bragging rights, that a photographer liked their photos.
 
 ## Is this coming in the papers?
 
-Not every photos is meant to be put in a paper and even if it is for the paper, the photographer doesn&#8217;t decide which photo gets published.
+Not every photos is meant to be put in a paper and even if it is for the paper, the photographer doesn't decide which photo gets published.
 
-This was my last post in the mini series about my frustrations. Now we&#8217;re back to the normal routine on here.
+This was my last post in the mini series about my frustrations. Now we're back to the normal routine on here.
 
  [1]: /wp-content/uploads/2013/06/20110704_paxette_film1-17.jpg

@@ -12,4 +12,4 @@ These codes are the winners from the first of november 2012 till 31st of decembe
 
 If you have won, to claim your price, send me a e-mail at info@pitslamp.be with a photo of the card, clearly showing the code.
 
-If you didn&#8217;t win, don&#8217;t worry, every 2 months there are 3 different codes that win a price. Just come back in november 2012 to see if you have won.
+If you didn't win, don't worry, every 2 months there are 3 different codes that win a price. Just come back in november 2012 to see if you have won.

@@ -39,7 +39,7 @@ In this workshop the topics will be:
   * Different types of film
   * The relation between films, settings and surroundings
   * You got the ability to photograph with several of 60+ film cameras, ranging from half-frame till 4&#215;5 inch large format cameras
-  * You&#8217;ll learn to develop film, black/white and colour
+  * You'll learn to develop film, black/white and colour
 
 **Details**
 
@@ -61,7 +61,7 @@ This workshop requires a knowledge of film development and an developed black an
   * Difference between enlargers
   * The different material needed and why
   * Techniques and how to solve certain problems
-  * You&#8217;ll print 1 of your own pictures and take it with you afterwards
+  * You'll print 1 of your own pictures and take it with you afterwards
 
 **Details**
 

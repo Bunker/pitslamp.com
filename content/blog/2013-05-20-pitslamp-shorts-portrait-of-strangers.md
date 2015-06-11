@@ -31,7 +31,7 @@ In the beginning of april, I went out with <a href="http://www.nowforever.be" ti
 
 It was a test in efficiency, I wanted to capture the person in just one photo, nothing more, nothing less. It did not work out every time, but I love the result in the photo above.
 
-Also read Stijn&#8217;s report of the day: <a href="http://nowforever.be/improve-communication-skills-shoot-a-stranger/" title="Nowforever Photography: Improve communication skills, shoot a stranger" rel="friend met">Improve communication skills, shoot a stranger</a>
+Also read Stijn's report of the day: <a href="http://nowforever.be/improve-communication-skills-shoot-a-stranger/" title="Nowforever Photography: Improve communication skills, shoot a stranger" rel="friend met">Improve communication skills, shoot a stranger</a>
 
 ## All the portraits
 

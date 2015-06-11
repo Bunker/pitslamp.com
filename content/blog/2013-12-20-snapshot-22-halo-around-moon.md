@@ -21,7 +21,7 @@ Last night while I was experimenting with long exposures on film, I noticed a ha
 
 It turned out to be a 22˚ halo around the moon, something that occurs more regularly, but I did never notice it before. You can read more about it on <a href="http://en.wikipedia.org/wiki/22°_halo" title="22˚ halo" rel="none">wikipedia</a>
 
-Anyway as I took the photos, I thought I&#8217;d share them with you.
+Anyway as I took the photos, I thought I'd share them with you.
 
 [<img src="/wp-content/uploads/2013/12/20131220_22_degree_halo-9634-600x400.jpg" alt="22˚ halo around the moon in Aalst" width="600" height="400" class="alignnone size-large wp-image-956" />][2]
 

@@ -16,7 +16,7 @@ format: gallery
 ---
 [<img src="/wp-content/uploads/2012/12/20121228_Large_Print-8742-1024x682.jpg" alt="Wall print by PitsLamp Photography" width="600" class="alignnone size-large wp-image-548" />][1]
 
-During last month I sold my first piece of furniture. I know I&#8217;m a photographer but a printed photo in a size of 1&#215;1.5 meters is no longer a simple print, it&#8217;s a piece of furniture. To be honest I still am very impressed with the result
+During last month I sold my first piece of furniture. I know I'm a photographer but a printed photo in a size of 1&#215;1.5 meters is no longer a simple print, it's a piece of furniture. To be honest I still am very impressed with the result
 
 The photo is printed by an UV-printer on a aluminum sheet of 1mm attached to 3mm dibond. Because the whites in the photo are not printed, the aluminum reflects light and the landscape looks to be alive.
 

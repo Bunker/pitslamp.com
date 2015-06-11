@@ -23,6 +23,6 @@ The contest itself is not very important to me, but it sure drives a lot of traf
 
 I have no illusions of winning the contest, but I would be gratefull not to finish last. So if you have some time to spare, head over to <a href="http://www.sitevanhetjaar.be/stem.cfm" title="stem - site van het jaar" rel="none">sitevanhetjaar.be</a>, register with your e-mail, wait for a confirmation mail and select &#8220;pitslamp.be&#8221; in the category &#8220;Fotografie&#8221;.
 
-**Also don&#8217;t forget you can still book a portrait session and decide yourself how much it&#8217;s worth: <a href="http://www.pitslamp.com/blog/20121122_i-shoot-you-decide" title="I shoot, you decide" rel="me">more info</a>**
+**Also don't forget you can still book a portrait session and decide yourself how much it's worth: <a href="http://www.pitslamp.com/blog/20121122_i-shoot-you-decide" title="I shoot, you decide" rel="me">more info</a>**
 
  [1]: /wp-content/uploads/2012/11/20120809_abb_rotterdam-28401.jpg

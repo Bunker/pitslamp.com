@@ -27,4 +27,4 @@ The url for the rss in English is still the same (<A href="http://www.pitslamp.c
 
 #### PitsLamp.be
 
-The url for the dutch RSS of pitslamp.be is changed to <a href="http://www.pitslamp.be/feed" title="RSS feed of pitslamp.be" rel="me">http://www.pitslamp.be/feed/</a>. You will still receive updates on the old RSS url, but they&#8217;ll be in English.
+The url for the dutch RSS of pitslamp.be is changed to <a href="http://www.pitslamp.be/feed" title="RSS feed of pitslamp.be" rel="me">http://www.pitslamp.be/feed/</a>. You will still receive updates on the old RSS url, but they'll be in English.

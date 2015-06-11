@@ -25,9 +25,9 @@ format: gallery
 
 With the end of the year nearing fast, I thought it would be a great moment to start an experiment. In the Netherlands there is a system called, pay what you want. I heard about it a while ago and I can find myself in a system that does not value time, but perceived worth.
 
-The idea is that I don&#8217;t set a price but the client decides after receiving the photos, how much they are worth to them. I find this a very interesting idea and to determine if it would work in the long term, I want to try it out for a while.
+The idea is that I don't set a price but the client decides after receiving the photos, how much they are worth to them. I find this a very interesting idea and to determine if it would work in the long term, I want to try it out for a while.
 
-Every portrait shoot booked and photographed between 24th of november and the 24th of december, will be according to this system. The package I&#8217;m offering, consists of the following:
+Every portrait shoot booked and photographed between 24th of november and the 24th of december, will be according to this system. The package I'm offering, consists of the following:
 
   * a black and white portrait shoot
   * on location (at home, work, in the park, &#8230;)
@@ -35,10 +35,10 @@ Every portrait shoot booked and photographed between 24th of november and the 24
   * 1x A4 print on quality paper (RC-paper)
   * 2x 13x18cm print on quality paper (RC-paper)
 
-The above is what I&#8217;m offering, after receiving and seeing the contact print, you decide what this is worth for you. Once you told me, I&#8217;ll make an invoice for that amount.
+The above is what I'm offering, after receiving and seeing the contact print, you decide what this is worth for you. Once you told me, I'll make an invoice for that amount.
 
 If you want to book such a shoot, fill out the <a href="http://www.pitslamp.com/contact" title="Contact form" rel="me">contact form</a> or call me at +32 486 36 29 61
 
-Also don&#8217;t hesitate to let me know what you think
+Also don't hesitate to let me know what you think
 
  [1]: /wp-content/uploads/2012/11/ishoot_youdecide.jpg

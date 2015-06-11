@@ -19,11 +19,11 @@ format: gallery
 ---
 [<img src="/wp-content/uploads/2012/12/H-P-LogoTM-vertical.jpg" alt="" title="H-P-LogoTM-vertical" width="600" class="alignnone size-full wp-image-523" />][1]
 
-For the 4th year in a row, I&#8217;m organising during the second weekend of december together with some other photographers Help-portrait in Belgium.
+For the 4th year in a row, I'm organising during the second weekend of december together with some other photographers Help-portrait in Belgium.
 
 [<img src="/wp-content/uploads/2012/12/homepage-idea.jpg" alt="" title="homepage-idea" width="600" class="alignnone size-full wp-image-524" />][2]
 
-As the image above explains, the goal of Help-portrait is to find somebody that can&#8217;t afford a photoshoot, photograph them and give them their printed portrait to take home.
+As the image above explains, the goal of Help-portrait is to find somebody that can't afford a photoshoot, photograph them and give them their printed portrait to take home.
 
 Help-portrait is an idea from American celebrity photographer Jeremy Cowart, it started in 2009 when Jeremy wanted to give something back instead of always taking photos. Since then it has grown enormously, at last count, there are 16500 photographers in 60 different countries and on 1800 locations that participate in the event. Together they already donated 200 000 portraits.
 

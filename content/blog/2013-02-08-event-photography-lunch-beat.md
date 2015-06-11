@@ -23,7 +23,7 @@ format: gallery
 ---
 [<img src="/wp-content/uploads/2013/02/20130207_lunchbeat_thon-8845-600x400.jpg" alt="Event photography: lunch beat with dj vineyard" width="600" height="400" class="alignnone size-large wp-image-622" />][1]
 
-Yesterday, <a href="http://www.saravdv.be" title="SaraVdV: There are no endings, only new beginnings" rel="muse met">Sara</a> saw a tweet from <a href="http://www.twitter.com/bartvandevel" title="Bart Van de Vel on twitter" rel="contact met">@BartVandeVel</a>, who needed a very last minute photographer for event photography during <a href="http://www.lunchbeat-belgium.be" title="Lunch beat Belgium" rel="contact met">Lunch beat</a>. I quickly responded and that&#8217;s how I ended up in <a href="http://www.thonhotels.com/hotels/countrys/belgium/brussels/thon-hotel-eu/" title="Hotel Thon EU, European District Brussels" rel="contact met">Hotel Thon</a> 2 hours later.
+Yesterday, <a href="http://www.saravdv.be" title="SaraVdV: There are no endings, only new beginnings" rel="muse met">Sara</a> saw a tweet from <a href="http://www.twitter.com/bartvandevel" title="Bart Van de Vel on twitter" rel="contact met">@BartVandeVel</a>, who needed a very last minute photographer for event photography during <a href="http://www.lunchbeat-belgium.be" title="Lunch beat Belgium" rel="contact met">Lunch beat</a>. I quickly responded and that's how I ended up in <a href="http://www.thonhotels.com/hotels/countrys/belgium/brussels/thon-hotel-eu/" title="Hotel Thon EU, European District Brussels" rel="contact met">Hotel Thon</a> 2 hours later.
 
 [<img src="/wp-content/uploads/2013/02/20130207_lunchbeat_thon-8954-600x400.jpg" alt="Event photography: lunch beat " width="600" height="400" class="alignnone size-large wp-image-623" />][2]
 

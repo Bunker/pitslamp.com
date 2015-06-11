@@ -16,6 +16,6 @@ format: gallery
 
 Yesterday, my sister gave birth to a new member of the family, Jarne. 
 
-A couple of weeks ago, I did a pregnancy shoot of my sister, of course I couldn&#8217;t leave without a picture with her and my godchild, Imke.
+A couple of weeks ago, I did a pregnancy shoot of my sister, of course I couldn't leave without a picture with her and my godchild, Imke.
 
  [1]: http://500px.com/photo/5037474

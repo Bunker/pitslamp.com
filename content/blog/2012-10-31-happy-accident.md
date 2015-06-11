@@ -27,6 +27,6 @@ Last week, I was helping out a fellow photographer <a href="http://www.guntherfr
 
 <a href="http://pitslamp.com/?attachment_id=458" rel="attachment wp-att-458"><img src="/wp-content/uploads/2012/10/20121030_mamiya_RB67_film47-2-827x1024.jpg" alt="" title="20121030_mamiya_RB67_film47-2" width="600" class="alignnone size-large wp-image-458" /></a>
 
-After finishing the roll of Rollei Retro 80S I unloaded the camera, licked the paper closing strip and threw it in my bag. Apparently due to the high temperature in Gunther&#8217;s studio, the closing strip came lose and when I got home, the roll was partially unravelled. I should have put it in it&#8217;s container, taped it shut and only take it out of the container in my darkbag. Off course I presumed the roll would be ruined but just for the heck of it, I developed it anyway.
+After finishing the roll of Rollei Retro 80S I unloaded the camera, licked the paper closing strip and threw it in my bag. Apparently due to the high temperature in Gunther's studio, the closing strip came lose and when I got home, the roll was partially unravelled. I should have put it in it's container, taped it shut and only take it out of the container in my darkbag. Off course I presumed the roll would be ruined but just for the heck of it, I developed it anyway.
 
 As expected most of the roll was overexposed, but I managed to recover 4 images, of which 2 turned out absolutely great. Now I need to figure out a way to get consistent results with this kind of light leaks.
