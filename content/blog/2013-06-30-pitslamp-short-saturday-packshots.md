@@ -23,13 +23,13 @@ tags:
   - sleek makeUP
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/06/Photo-29-06-13-22-52-22-600x400.jpg" alt="Packshots Sleek MakeUP blush" width="600" height="400" class="alignnone size-large wp-image-879" />][1]
+[![Packshots Sleek MakeUP blush>][1]](/images/blogposts/Photo-29-06-13-22-52-22.jpg)
 
 Every now and then, my girlfriend <a href="http://www.saravdv.be/" title="SaraVdV.be | There are no endings, only new beginnings.." rel="sweeetheart, friend, met">Sara</a> asks me to take photos of the products she receives to review for her blog. Today I got my gear out and started experimenting with some new techniques for packshots.
 
 This time it were packshots for cosmetic products including the brands Caudalie and Sleek MakeUP. Enjoy the results here, these shots are almost straight out of camera, I just made some small adjustments with the iPad.
 
-[<img src="/wp-content/uploads/2013/06/Photo-29-06-13-22-52-23-600x900.jpg" alt="Packshots Caudalie Figue de Vigne" width="600" height="900" class="alignnone size-large wp-image-880" />][2]
+[![Packshots Caudalie Figue de Vigne>][2]](/images/blogposts/20130629_packshots_sara-3236.jpg)
 
- [1]: /wp-content/uploads/2013/06/Photo-29-06-13-22-52-22.jpg
- [2]: /wp-content/uploads/2013/06/Photo-29-06-13-22-52-23.jpg
+ [1]: /images/blogposts/Photo-29-06-13-22-52-22.jpg
+ [2]: /images/blogposts/20130629_packshots_sara-3236.jpg

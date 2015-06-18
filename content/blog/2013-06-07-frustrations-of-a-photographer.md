@@ -16,7 +16,7 @@ tags:
   - quote
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/06/20130602_veronique_breugelmans-0659-600x399.jpg" alt="Frustrations of a photographer - Véronique" width="600" height="399" class="alignnone size-large wp-image-815" />][1]
+[![Frustrations of a photographer - Véronique][1]](/images/blogposts/20130602_veronique_breugelmans-0659.jpg)
 
 As I already mentioned in my previous post <a href="http://pitslamp.com/blog/20130531_what-does-a-photographer-cost" title="Wat kost een fotograaf? : PitsLamp Fotografie" rel="me">What does a photographer cost?</a> I'm writing a series about the frustrations of a photographer. In this post I'll be talking about things that annoy me when sending quotes or receiving certain request from clients.
 
@@ -66,4 +66,4 @@ I can continue for a bit, but I think I covered the most important ones.
 
 **The next post in this series will be about the remarks a photographer receives**
 
- [1]: /wp-content/uploads/2013/06/20130602_veronique_breugelmans-0659.jpg
+ [1]: /images/blogposts/20130602_veronique_breugelmans-0659.jpg

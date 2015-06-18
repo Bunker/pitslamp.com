@@ -20,52 +20,23 @@ tags:
   - test shoot
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1873-600x900.jpg" alt="Film noir: Detective" width="600" height="900" class="alignnone size-large wp-image-834" />][1]
+[![Film noir: Detective][1]](/images/blogposts/20130612_MN_idoia_pouilliers-1873.jpg)
 
 Yesterday I was shooting with I. for a upcoming project with the large format camera. We had some time left after the shoot and decided to do some fun stuff. Here are the results, enjoy.
 
-<div id='gallery-833-8' class='gallery gallery-833'>
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1743.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1743-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1743" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1782.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1782-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1782" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1807.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1807-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1807" /></a>
-      </dt>
-    </dl>
-  </div>
-  
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1831.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1831-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1831" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1833.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1833-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1833" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1886.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1886-150x150.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1886" /></a>
-      </dt>
-    </dl>
-  </div>
-</div>
 
-<!-- .gallery -->
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1743.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1743" />][2]
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1782.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1782" />][3]
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1807.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1807" />][4]
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1831.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1831" />][5]
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1833.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1833" />][6]
+[<img height="150" src="/images/blogposts/20130612_MN_idoia_pouilliers-1886.jpg" class="attachment-thumbnail" alt="20130612_MN_idoia_pouilliers-1886" />][7]
 
- [1]: /wp-content/uploads/2013/06/20130612_MN_idoia_pouilliers-1873.jpg
+ [1]: /images/blogposts/20130612_MN_idoia_pouilliers-1873.jpg
+ [2]: /images/blogposts/20130612_MN_idoia_pouilliers-1743.jpg
+ [3]: /images/blogposts/20130612_MN_idoia_pouilliers-1782.jpg
+ [4]: /images/blogposts/20130612_MN_idoia_pouilliers-1807.jpg
+ [5]: /images/blogposts/20130612_MN_idoia_pouilliers-1831.jpg
+ [6]: /images/blogposts/20130612_MN_idoia_pouilliers-1833.jpg
+ [7]: /images/blogposts/20130612_MN_idoia_pouilliers-1886.jpg
+

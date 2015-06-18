@@ -24,7 +24,7 @@ tags:
   - test shoot
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6398-600x400.jpg" alt="Nespresso Kazaar and Dharkan packshot" width="600" height="400" class="alignnone size-large wp-image-924" />][1]
+[![Nespresso Kazaar and Dharkan packshot][1]](/images/blogposts/20130923_nespresso_dharkan_kazaar-6398.jpg)
 
 As you probably know by now, my girlfriend <a href="http://www.saravdv.be" title="Saravdv.be: There are no endings, only new beginnings" rel="muse spouse">Sara</a> receives a lot of review products for her blog. As she has a photographer around, she hands of the photography to me. If I have the time, I do like to play around a bit with techniques I haven't used before. Especially if the subject is new tastes from <a href="http://www.nespresso.be" title="De kunst van Espresso, exclusieve koffie en koffiemachines | Nespresso | Nespresso" rel="contact met">Nespresso</a>, mainly because I live on coffee.
 
@@ -34,62 +34,23 @@ Next to the above, I also wanted to use fluids moved by the vibrations of music 
 
 Hit me with your comments. Also if anybody from Nespresso reads this, you can book me if you like these.
 
-<div id='gallery-916-9' class='gallery gallery-916'>
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6398.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6398-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar and Dharkan packshot" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6375.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6375-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar and Dharkan packshot" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6330.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6330-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar packshot" /></a>
-      </dt>
-    </dl>
-  </div>
-  
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6310.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6310-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar packshot" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6279.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6279-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Dharkan packshot" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6273.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6273-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Dharkan packshot" /></a>
-      </dt>
-    </dl>
-  </div>
-  
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6229.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6229-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar packshot" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6138.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6138-150x150.jpg" class="attachment-thumbnail" alt="Nespresso Kazaar packshot" /></a>
-      </dt>
-    </dl>
-  </div>
-</div>
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6398.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][1]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6375.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][2]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6330.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][3]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6310.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][4]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6279.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][5]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6273.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][6]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6229.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px" title="" />][7]
+[<img src="/images/blogposts/20130923_nespresso_dharkan_kazaar-6138.jpg" alt="Nespresso Kazaar and Dharkan packshot" height="150px"title="" />][8]
 
-<!-- .gallery -->
 
- [1]: /wp-content/uploads/2013/09/20130923_nespresso_dharkan_kazaar-6398.jpg
+
+ [1]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6398.jpg
+ [2]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6375.jpg
+ [3]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6330.jpg
+ [4]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6310.jpg
+ [5]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6279.jpg
+ [6]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6273.jpg
+ [7]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6229.jpg
+ [8]: /images/blogposts/20130923_nespresso_dharkan_kazaar-6138.jpg
+

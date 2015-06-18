@@ -32,3 +32,5 @@
 				
 			
 </div>
+<!-- Analytics code -->
+{{ with .Site.Params.AnalyticsID }}{{ partial "analytics.html" . }}{{ end }}

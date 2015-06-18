@@ -29,7 +29,7 @@ tags:
   - rollei retro 80s
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-17-600x496.jpg" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" width="600" height="496" class="alignnone size-large wp-image-652" />][1]
+[<img src="/images/blogposts/20130219_ISYD_mattias_adinda-17.jpg" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" width="600" height="496" class="alignnone size-large wp-image-652" />][1]
 
 A little over a month ago when I launched my second <a href="http://pitslamp.com/blog/20130106_i-shoot-you-decide-ii-large-portrait" title="I shoot, you decide II, large portrait" rel="me">I shoot, you decide</a>, I got contacted by <a href="http://www.twitter.com/_totherescue_" title="Mattias de Backer on Twitter" rel="contact met">Mattias</a> and Adinda. They are getting married in August and wanted to have an engagement shoot with the resulting large print to fill a hole on their wall.
 
@@ -47,19 +47,19 @@ Monday I developed the rolls, because when I looked at the digital test photos, 
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-18.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-18-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-18.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-18-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-17.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-17-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-17.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-17-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-16.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-16-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-16.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-16-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
   </div>
@@ -67,19 +67,19 @@ Monday I developed the rolls, because when I looked at the digital test photos, 
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-15.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-15-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-15.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-15-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-12.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-12-150x150.jpg" class="attachment-thumbnail" alt="Fine art portrait of Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-12.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-12-150x150.jpg" class="attachment-thumbnail" alt="Fine art portrait of Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-9.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-9-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-9.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-9-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
   </div>
@@ -87,19 +87,19 @@ Monday I developed the rolls, because when I looked at the digital test photos, 
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-8.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-8-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-8.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-8-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-5.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-5-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-5.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-5-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-3.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-3-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
+        <a href='/images/blogposts/20130219_ISYD_mattias_adinda-3.jpg'><img width="150" height="150" src="/images/blogposts/20130219_ISYD_mattias_adinda-3-150x150.jpg" class="attachment-thumbnail" alt="Mattias en Adinda 1920&#039;s themed engagement shoot on film" /></a>
       </dt>
     </dl>
   </div>
@@ -107,4 +107,4 @@ Monday I developed the rolls, because when I looked at the digital test photos, 
 
 <!-- .gallery -->
 
- [1]: /wp-content/uploads/2013/02/20130219_ISYD_mattias_adinda-17.jpg
+ [1]: /images/blogposts/20130219_ISYD_mattias_adinda-17.jpg

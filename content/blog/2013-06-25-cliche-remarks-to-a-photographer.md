@@ -15,7 +15,7 @@ tags:
   - quote
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/06/20110704_paxette_film1-17-600x397.jpg" alt="cliché" width="600" height="397" class="alignnone size-large wp-image-874" />][1]
+[![Cliché][1](/images/blogposts/20110704_paxette_film1-17.jpg)
 
 This is the last blogpost in my short series about my frustrations. Have a look at my previous ones over at <a href="http://pitslamp.com/blog/20130607_frustrations-of-a-photographer" title="PitsLamp photography | Frustrations of a photographer" rel="me">Frustrations of a photographer</a> and <a href="http://pitslamp.com/blog/20130531_what-does-a-photographer-cost" title="PitsLamp photography | What does a photographer cost" rel="me">What does a photographer cost?</a>.
 
@@ -61,4 +61,4 @@ Not every photos is meant to be put in a paper and even if it is for the paper, 
 
 This was my last post in the mini series about my frustrations. Now we're back to the normal routine on here.
 
- [1]: /wp-content/uploads/2013/06/20110704_paxette_film1-17.jpg
+ [1]: /images/blogposts/20110704_paxette_film1-17.jpg

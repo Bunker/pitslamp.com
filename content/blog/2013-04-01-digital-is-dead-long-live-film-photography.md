@@ -26,7 +26,7 @@ format: gallery
 ---
 **[UPDATE] This blogpost was an April fools day joke, I will still be doing digital and film.**
 
-[<img src="/wp-content/uploads/2013/04/20110201_mamiyaRB67_film8-5-600x489.jpg" alt="Vredebox: the start of my film photography" width="600" height="489" class="alignnone size-large wp-image-751" />][1]
+[![Vredebox: the start of my film photography][1]](/images/blogposts/20110201_mamiyaRB67_film8-5.jpg)
 
 The last 2 weeks were very quiet over here and I'm sorry for that, but I have a really good reason for it, several reasons as a matter a fact. First of all it just have been very busy weeks, with a 4 day trip to the UK, a lot of shoots and other work. However the most important reason is that I have been struggling and debating with myself to make a lot of changes in my photography business.
 
@@ -52,4 +52,4 @@ During the coming weeks, everything here will change accordingly. I wanted to ha
 
 I'm very excited for the future and hope that all of you will support this change and help me get the word out by sharing this blogpost.
 
- [1]: /wp-content/uploads/2013/04/20110201_mamiyaRB67_film8-5.jpg
+ [1]: /images/blogposts/20110201_mamiyaRB67_film8-5.jpg

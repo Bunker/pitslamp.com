@@ -18,23 +18,23 @@ tags:
   - superprestige
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9299-600x900.jpg" alt="20131117_lotto_cyclo_gavere-9299" width="600" height="900" class="alignnone size-large wp-image-934" />][1]
+[![20131117_lotto_cyclo_gavere-9299][1]](/images/blogposts/20131117_lotto_cyclo_gavere-9299.jpg)
 
 During my job today for <a href="http://www.lotto.be" title="Lotto - Nationale Lotterij" rel="contact met">Lotto</a> at <a href="http://superprestigecyclocross.be" title="Super prestige Cyclocross" rel="none">Super prestige cyclocross</a> in <a href="http://www.cyclocrossgavere.be" title="Super prestige Gavere" rel="none">Gavere</a> I had the chance to photograph some of the cyclists. I love the difference in concentration and emotions, I managed to capture on such a short time.
 
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9226-600x400.jpg" alt="20131117_lotto_cyclo_gavere-9226" width="600" height="400" class="alignnone size-large wp-image-933" />][2]
+[![20131117_lotto_cyclo_gavere-9226][2]](/images/blogposts/20131117_lotto_cyclo_gavere-9226.jpg)
 
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9323-600x400.jpg" alt="20131117_lotto_cyclo_gavere-9323" width="600" height="400" class="alignnone size-large wp-image-935" />][3]
+[![20131117_lotto_cyclo_gavere-9323][3]](/images/blogposts/20131117_lotto_cyclo_gavere-9323.jpg)
 
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9337-600x400.jpg" alt="20131117_lotto_cyclo_gavere-9337" width="600" height="400" class="alignnone size-large wp-image-936" />][4]
+[![20131117_lotto_cyclo_gavere-9337][4]](/images/blogposts/20131117_lotto_cyclo_gavere-9337.jpg)
 
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9340-600x400.jpg" alt="20131117_lotto_cyclo_gavere-9340" width="600" height="400" class="alignnone size-large wp-image-937" />][5]
+[![20131117_lotto_cyclo_gavere-9340][5]](/images/blogposts/20131117_lotto_cyclo_gavere-9340.jpg)
 
-[<img src="/wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9350-600x400.jpg" alt="20131117_lotto_cyclo_gavere-9350" width="600" height="400" class="alignnone size-large wp-image-938" />][6]
+[![20131117_lotto_cyclo_gavere-9350][6]](/images/blogposts/20131117_lotto_cyclo_gavere-9350.jpg)
 
- [1]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9299.jpg
- [2]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9226.jpg
- [3]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9323.jpg
- [4]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9337.jpg
- [5]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9340.jpg
- [6]: /wp-content/uploads/2013/11/20131117_lotto_cyclo_gavere-9350.jpg
+ [1]: /images/blogposts/20131117_lotto_cyclo_gavere-9299.jpg
+ [2]: /images/blogposts/20131117_lotto_cyclo_gavere-9226.jpg
+ [3]: /images/blogposts/20131117_lotto_cyclo_gavere-9323.jpg
+ [4]: /images/blogposts/20131117_lotto_cyclo_gavere-9337.jpg
+ [5]: /images/blogposts/20131117_lotto_cyclo_gavere-9340.jpg
+ [6]: /images/blogposts/20131117_lotto_cyclo_gavere-9350.jpg

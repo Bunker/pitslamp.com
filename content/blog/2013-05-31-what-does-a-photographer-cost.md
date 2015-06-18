@@ -15,7 +15,7 @@ tags:
   - what does a photographer cost
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/05/20111013_ibbt_iminds_2011-5870-600x400.jpg" alt="What does a photographer cost - image of people discussing" width="600" height="400" class="alignnone size-large wp-image-795" />][1]
+[![What does a photographer cost - image of people discussing][1]](/images/blogposts/20111013_ibbt_iminds_2011-5870.jpg)
 
 After several years as a full time photographer, I have gathered a couple of things I want to clarify or rectify. That's why I decided to write a short series of articles about my cost and frustrations as a photographer. I'll publish the whole series during the next couple of days. Today I'll start off by answering the question, what does a photographer cost and why I have to set this cost.
 
@@ -108,4 +108,4 @@ It may seem that you pay a lot for a photographer, but after analysing the price
 
 **The next article is about the frustrations as a payed photographer**
 
- [1]: /wp-content/uploads/2013/05/20111013_ibbt_iminds_2011-5870.jpg
+ [1]: /images/blogposts/20111013_ibbt_iminds_2011-5870.jpg

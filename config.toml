@@ -19,10 +19,10 @@ pluralizeListTitles = true
   logo = "/wp-content/uploads/2015/03/logo_pitslampcom.png"
   description = "I shoot people"
   email = "info@pitslamp.com"
-  shortDescription = "testing short desc."
-  blabla = "hello, ik blabla"
+  shortDescription = ""
   author = "Filip Bunkens"
   SidebarRecentLimit = 5
+  AnalyticsID = "UA-2550570-12"
 
 [[menu.main]]
     name = "Home"

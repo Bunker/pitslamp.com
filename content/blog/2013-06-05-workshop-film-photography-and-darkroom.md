@@ -27,7 +27,7 @@ tags:
   - workshop
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/06/film_intro-EN-600x450.png" alt="Workshop film photography" width="600" height="450" class="alignnone size-large wp-image-807" />][1]
+[![Workshop film photography][1]](/images/blogposts/film_intro-EN.png)
 
 Lately I get quite some questions about film photography, so I decided to start with some workshop on the topic.
 
@@ -51,7 +51,7 @@ In this workshop the topics will be:
 
 Subscribe by sending an e-mail to workshop@pitslamp.be
 
-[<img src="/wp-content/uploads/2013/06/doka_intro-EN-600x450.png" alt="Workshop darkroom" width="600" height="450" class="alignnone size-large wp-image-806" />][2]
+[![Workshop darkroom][2]](/images/blogposts/doka_intro-EN.png)
 
 ## 06/07/2013: Workshop black and white darkroom printing: intro
 
@@ -75,5 +75,5 @@ Subscribe by sending an e-mail to workshop@pitslamp.be
 
 If you want to attend both workshop the price is only **299 euro (ex. VAT)**
 
- [1]: /wp-content/uploads/2013/06/film_intro-EN.png
- [2]: /wp-content/uploads/2013/06/doka_intro-EN.png
+ [1]: /images/blogposts/film_intro-EN.png
+ [2]: /images/blogposts/doka_intro-EN.png

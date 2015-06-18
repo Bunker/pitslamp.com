@@ -18,74 +18,29 @@ tags:
   - wasbar
 format: gallery
 ---
-[<img class="alignnone size-large wp-image-694" alt="Florida pompelmoes evenement in Wasbar Gent" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-25-600x400.jpg" width="600" height="400" />][1]
+[![Florida pompelmoes evenement in Wasbar Gent][1]](/images/blogposts/20130225_Florida_Wasbar-25.jpg)
 
 Monday I was asked to shoot the smoothie workshop of <a title="Cool Florida Grapefruit" href="http://www.coolfloridagrapefruit.be" rel="contact">Florida</a> grapefruit in the <a title="Wasbar, gent" href="http://www.wasbar.be" rel="contact met">Wasbar</a> in Ghent.
 
 It felt a bit like summer in the wasbar, with the smoothies made by Bart of <a title="Bartenders on the road" href="http://www.bartenders-on-the-road.com" rel="contact met">Bartenders on the road</a>. One of the perks of being the photographer, you get to taste everything.
 
-<div id='gallery-692-6' class='gallery gallery-692'>
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-12.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-12-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-53.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-53-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-30.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-30-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-  </div>
-  
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-126.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-126-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-110.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-110-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-135.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-135-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-  </div>
-  
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-42.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-42-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-122.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-122-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-    
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <a href='/wp-content/uploads/2013/02/20130225_Florida_Wasbar-90.jpg'><img width="150" height="150" src="/wp-content/uploads/2013/02/20130225_Florida_Wasbar-90-150x150.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" /></a>
-      </dt>
-    </dl>
-  </div>
-</div>
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-12.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][2]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-53.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][3]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-30.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][4]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-126.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][5]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-89.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][6]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-135.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][7]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-42.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][8]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-122.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][9]
+[<img height="150" src="/images/blogposts/20130225_Florida_Wasbar-90.jpg" class="attachment-thumbnail" alt="Florida pompelmoes evenement in Wasbar Gent" />][10]
 
-<!-- .gallery -->
-
- [1]: /wp-content/uploads/2013/02/20130225_Florida_Wasbar-25.jpg
+ [1]: /images/blogposts/20130225_Florida_Wasbar-25.jpg
+ [2]: /images/blogposts/20130225_Florida_Wasbar-12.jpg
+ [3]: /images/blogposts/20130225_Florida_Wasbar-53.jpg
+ [4]: /images/blogposts/20130225_Florida_Wasbar-30.jpg
+ [5]: /images/blogposts/20130225_Florida_Wasbar-126.jpg
+ [6]: /images/blogposts/20130225_Florida_Wasbar-89.jpg
+ [7]: /images/blogposts/20130225_Florida_Wasbar-135.jpg
+ [8]: /images/blogposts/20130225_Florida_Wasbar-42.jpg
+ [9]: /images/blogposts/20130225_Florida_Wasbar-122.jpg
+ [10]: /images/blogposts/20130225_Florida_Wasbar-90.jpg

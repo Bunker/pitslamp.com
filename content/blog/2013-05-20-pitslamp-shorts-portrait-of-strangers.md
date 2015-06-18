@@ -25,7 +25,7 @@ tags:
   - strangers
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/05/mamiya_film72-3-600x487.jpg" alt="Mamiya RB67 portrait in the streets of Ghent" width="600" height="487" class="alignnone size-large wp-image-778" />][1]
+[![Mamiya RB67 portrait in the streets of Ghent][1]](/images/blogposts/mamiya_film72-3.jpg)
 
 In the beginning of april, I went out with <a href="http://www.nowforever.be" title="Huwelijk and event photography Stijn Vandenbussche" rel="friend met">Stijn</a> to photograph some strangers, while Stijn used his digital camera, I took 2 photos, 1 polaroid to give to the people and one for myself on black and white film.
 
@@ -35,13 +35,13 @@ Also read Stijn's report of the day: <a href="http://nowforever.be/improve-commu
 
 ## All the portraits
 
-[<img src="/wp-content/uploads/2013/05/mamiya_film72-4-600x737.jpg" alt="Mamiya RB67 portrait in the streets of Ghent" width="600" height="737" class="alignnone size-large wp-image-779" />][2]
+[![Mamiya RB67 portrait in the streets of Ghent][2]](/images/blogposts/mamiya_film72-4.jpg)
 
-[<img src="/wp-content/uploads/2013/05/mamiya_film72-2-600x490.jpg" alt="Mamiya RB67 portrait in the streets of Ghent" width="600" height="490" class="alignnone size-large wp-image-777" />][3]
+[![Mamiya RB67 portrait in the streets of Ghent][3]](/images/blogposts/mamiya_film72-2.jpg)
 
-[<img src="/wp-content/uploads/2013/05/mamiya_film72-1-600x487.jpg" alt="Mamiya RB67 portrait in the streets of Ghent" width="600" height="487" class="alignnone size-large wp-image-776" />][4]
+[![Mamiya RB67 portrait in the streets of Ghent][4]](/images/blogposts/mamiya_film72-1.jpg)
 
- [1]: /wp-content/uploads/2013/05/mamiya_film72-3.jpg
- [2]: /wp-content/uploads/2013/05/mamiya_film72-4.jpg
- [3]: /wp-content/uploads/2013/05/mamiya_film72-2.jpg
- [4]: /wp-content/uploads/2013/05/mamiya_film72-1.jpg
+ [1]: /images/blogposts/mamiya_film72-3.jpg
+ [2]: /images/blogposts/mamiya_film72-4.jpg
+ [3]: /images/blogposts/mamiya_film72-2.jpg
+ [4]: /images/blogposts/mamiya_film72-1.jpg
