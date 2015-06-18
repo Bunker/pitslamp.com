@@ -13,7 +13,7 @@ tags:
   - promotion
 format: gallery
 ---
-[<img src="/wp-content/uploads/2012/11/20120502_project-30303030_shoot-17-15-1024x686.jpg" alt="" title="Project #30303030: Bruno Monteiro" width="600" class="alignnone size-large wp-image-512" />][1]
+[![Project #30303030: Bruno Monteiro][1]](/images/blogposts/20120502_project-30303030_shoot-17-15.jpg)
 
 Last thursday I posted here, that I'm doing the <a href="http://www.pitslamp.com/blog/20121122_i-shoot-you-decide" title="I shoot, you decide!" rel="me">&#8220;I shoot, you decide!&#8221;</a> experiment till the end of the year. Now I noticed that a lot of people have some questions about this, that's why I decide to post the answers here.
 
@@ -59,4 +59,4 @@ That's why it's a temporary project, if it doesn't work out, it'll end after thi
 
 To quote a famous movie: **“There is only ONE rule: there are no rules!”**
 
- [1]: /wp-content/uploads/2012/11/20120502_project-30303030_shoot-17-15.jpg
+ [1]: /images/blogposts/20120502_project-30303030_shoot-17-15.jpg

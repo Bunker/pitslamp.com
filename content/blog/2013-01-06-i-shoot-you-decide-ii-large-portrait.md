@@ -19,7 +19,7 @@ tags:
   - Portrait
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/01/ISYD-II.jpg" alt="Book now a portrait and decide the cost later" width="600" height="400" class="alignnone size-full wp-image-569" />][1]
+[![Book now a portrait and decide the cost later][1]](/images/blogposts/ISYD-II.jpg)
 
 Starting from now till the 10th of february you can book a portrait session and decide the price yourself.
 
@@ -36,4 +36,4 @@ If you have questions about how this all works, you can check out the following 
 
 Book the shoot now by filling out the <a href="http://www.pitslamp.com/contact" title="Contact form" rel="me">contact form</a> or call me at +32 486 36 29 61
 
- [1]: /wp-content/uploads/2013/01/ISYD-II.jpg
+ [1]: /images/blogposts/ISYD-II.jpg

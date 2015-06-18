@@ -17,11 +17,11 @@ tags:
   - katanga
 format: gallery
 ---
-[<img src="/wp-content/uploads/2012/12/H-P-LogoTM-vertical.jpg" alt="" title="H-P-LogoTM-vertical" width="600" class="alignnone size-full wp-image-523" />][1]
+[![H-P-LogoTM-vertical][1]](/images/blogposts/H-P-LogoTM-vertical.jpg)
 
 For the 4th year in a row, I'm organising during the second weekend of december together with some other photographers Help-portrait in Belgium.
 
-[<img src="/wp-content/uploads/2012/12/homepage-idea.jpg" alt="" title="homepage-idea" width="600" class="alignnone size-full wp-image-524" />][2]
+[![homepage-idea][2]](/images/blogposts/homepage-idea.jpg)
 
 As the image above explains, the goal of Help-portrait is to find somebody that can't afford a photoshoot, photograph them and give them their printed portrait to take home.
 
@@ -33,5 +33,5 @@ Today I had an interview on the local radiostation Katanga, about Help-portrait,
 
 **Also don’t forget you can still book a portrait session and decide yourself how much it’s worth: <a href="http://www.pitslamp.com/blog/20121122_i-shoot-you-decide" title="I shoot, you decide | PitsLamp Photography" rel="me">more info</a>**
 
- [1]: /wp-content/uploads/2012/12/H-P-LogoTM-vertical.jpg
- [2]: /wp-content/uploads/2012/12/homepage-idea.jpg
+ [1]: /images/blogposts/H-P-LogoTM-vertical.jpg
+ [2]: /images/blogposts/homepage-idea.jpg

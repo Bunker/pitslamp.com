@@ -13,7 +13,7 @@ tags:
   - website
 format: gallery
 ---
-<a href="http://pitslamp.com/?attachment_id=438" rel="attachment wp-att-438"><img src="/wp-content/uploads/2012/10/20121004_Mamiya_RB67_film45-9-836x1024.jpg" alt="" title="20121004_Mamiya_RB67_film45-9" width="500" class="alignnone size-large wp-image-438" /> </a>
+[![Bordeaux fountain dance][1](/images/blogposts/20121004_Mamiya_RB67_film45-9.jpg
 
 For those not reading this on my website, I did a redesign of the site and I also updated my <a href="http://www.pitslamp.com/portfolio" title="PitsLamp Photography - Portfolio" rel="me">portfolio</a>. Make sure to check it out.
 
@@ -28,3 +28,5 @@ The url for the rss in English is still the same (<A href="http://www.pitslamp.c
 #### PitsLamp.be
 
 The url for the dutch RSS of pitslamp.be is changed to <a href="http://www.pitslamp.be/feed" title="RSS feed of pitslamp.be" rel="me">http://www.pitslamp.be/feed/</a>. You will still receive updates on the old RSS url, but they'll be in English.
+
+[1]: /images/blogposts/20121004_Mamiya_RB67_film45-9.jpg

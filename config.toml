@@ -10,6 +10,7 @@ canonifyurls = false
 paginate = 10
 paginatePath = "page"
 pluralizeListTitles = true
+rssURI = "feed"
 
 [taxonomies]
   category = "categories"

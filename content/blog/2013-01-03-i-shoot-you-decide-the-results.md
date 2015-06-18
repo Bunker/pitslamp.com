@@ -26,7 +26,7 @@ tags:
   - results
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/01/helena-1024x1024.jpg" alt="helena" width="600" class="alignnone size-large wp-image-564" />][1]
+[![Helena][1]](/images/blogposts/helena.jpg)
 
 First of all, a happy New Year to all of you.
 
@@ -54,4 +54,4 @@ As the results show, the perceived value of the shoot is very close to the price
 
 Due to the success I'll repeat the I shoot, you decide project again at certain points in time. Every time the package will change a bit. Follow here for more info.
 
- [1]: /wp-content/uploads/2013/01/helena.jpg
+ [1]: /images/blogposts/helena.jpg

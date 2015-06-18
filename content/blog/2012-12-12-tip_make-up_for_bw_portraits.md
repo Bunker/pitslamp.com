@@ -16,7 +16,7 @@ tags:
   - tips
 format: gallery
 ---
-[<img src="/wp-content/uploads/2012/12/20120421_project-30303030_shoot-27-0008-1024x682.jpg" alt="Make up brush" width="600" class="alignnone size-large wp-image-530" />][1]
+[![Make up brush][1]](/images/blogposts/20120421_project-30303030_shoot-27-0008.jpg)
 
 Black and white portraits require a whole other approach on make-up and clothing than colour portraits. This should be kind of obvious because of the lack of colour, but it can be hard to imagine your make up in black and white. I'll try to provide some pointers in this blogpost.
 
@@ -44,4 +44,4 @@ As always with make up don't overdo it and don't stop abruptly below your chin, 
 
 _If I made any mistakes in this article please let me know, after all I'm not a make up artist._
 
- [1]: /wp-content/uploads/2012/12/20120421_project-30303030_shoot-27-0008.jpg
+ [1]: /images/blogposts/20120421_project-30303030_shoot-27-0008.jpg

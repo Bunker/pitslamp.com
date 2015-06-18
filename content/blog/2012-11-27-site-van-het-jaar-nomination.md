@@ -15,7 +15,7 @@ tags:
   - site van het jaar
 format: gallery
 ---
-[<img src="/wp-content/uploads/2012/11/20120809_abb_rotterdam-28401-1024x682.jpg" alt="" title="20120809_abb_rotterdam-2840" width="600" class="alignnone size-large wp-image-519" />][1]
+[![20120809_abb_rotterdam-2840][1]](/images/blogposts/20120809_abb_rotterdam_2840.jpg)
 
 Every year the Flemish computer magazine <a href="http://www.clickx.be" title="Clickx" rel="none">Clickx</a> organizes the &#8220;Site van het jaar&#8221; (Site of the year) election. Imagine my surprise when I received a notification that I was selected as one of the nominees for the category photography.
 
@@ -25,4 +25,4 @@ I have no illusions of winning the contest, but I would be gratefull not to fini
 
 **Also don't forget you can still book a portrait session and decide yourself how much it's worth: <a href="http://www.pitslamp.com/blog/20121122_i-shoot-you-decide" title="I shoot, you decide" rel="me">more info</a>**
 
- [1]: /wp-content/uploads/2012/11/20120809_abb_rotterdam-28401.jpg
+ [1]: /images/blogposts/20120809_abb_rotterdam-2840.jpg

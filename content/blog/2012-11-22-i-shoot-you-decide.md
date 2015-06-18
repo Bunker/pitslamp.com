@@ -21,7 +21,7 @@ tags:
   - promotion
 format: gallery
 ---
-[<img src="/wp-content/uploads/2012/11/ishoot_youdecide.jpg" alt="" title="ishoot_youdecide" width="600" height="600" class="alignnone size-full wp-image-496" />][1]
+[![I Shoot You Decide][1]](/images/blogposts/ishoot_youdecide.jpg)
 
 With the end of the year nearing fast, I thought it would be a great moment to start an experiment. In the Netherlands there is a system called, pay what you want. I heard about it a while ago and I can find myself in a system that does not value time, but perceived worth.
 
@@ -41,4 +41,4 @@ If you want to book such a shoot, fill out the <a href="http://www.pitslamp.com/
 
 Also don't hesitate to let me know what you think
 
- [1]: /wp-content/uploads/2012/11/ishoot_youdecide.jpg
+ [1]: /images/blogposts/ishoot_youdecide.jpg

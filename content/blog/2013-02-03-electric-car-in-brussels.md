@@ -24,7 +24,7 @@ tags:
   - nissan leaf
 format: gallery
 ---
-[<img src="/wp-content/uploads/2013/02/20121211_abb_autoworld-8281-600x400.jpg" alt="Electric car of ABB" width="600" height="400" class="alignnone size-large wp-image-615" />][1]
+[![Electric car of ABB][1]](/images/blogposts/20121211_abb_autoworld-8281.jpg)
 
 Once in a while, everything seems to work out, just as you hoped. This was the case when <a href="http://www.abb.be" rel="contact met" title="ABB">ABB</a> asked me to shoot an event featuring their electric car in the Jubelpark in Brussels.
 
@@ -32,4 +32,4 @@ The Nissan Leaf had just been cleaned, the location was gorgeous and the evening
 
 A quick edit in Lightroom and you get a result, that not only pleases your client, but also gives you a nice portfolio image. That's all it takes sometimes.
 
- [1]: /wp-content/uploads/2013/02/20121211_abb_autoworld-8281.jpg
+ [1]: /images/blogposts/20121211_abb_autoworld-8281.jpg
