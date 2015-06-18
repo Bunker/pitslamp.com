@@ -13,7 +13,7 @@ tags:
   - website
 format: gallery
 ---
-[![Bordeaux fountain dance][1](/images/blogposts/20121004_Mamiya_RB67_film45-9.jpg
+[![Bordeaux fountain dance][1](/images/blogposts/20121004_Mamiya_RB67_film45-9.jpg)
 
 For those not reading this on my website, I did a redesign of the site and I also updated my <a href="http://www.pitslamp.com/portfolio" title="PitsLamp Photography - Portfolio" rel="me">portfolio</a>. Make sure to check it out.
 
