@@ -30,4 +30,4 @@ At last I also had to figure out a way to mount the n8 to a tripod. I does not h
 
 Overall the problems were quite easy to solve, but they required some preparations and extensive testing at home to circumvent all the above problems.
 
-I will not shoot any work for clients with a cellphone, just because I can. It is just a lot easier to shoot with a pro DSLR. But my goal was to prove that you can't use the excuse that you don't have to appropriate equipment for making great photos.
+I will not shoot any work for clients with a cellphone, just because I can. It is just a lot easier to shoot with a pro DSLR. But my goal was to prove that you can't use the excuse that you don't have to appropriate equipment for making great photos. 

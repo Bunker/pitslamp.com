@@ -4,8 +4,8 @@ author: Filip Bunkens
 type: post
 date: 2015-04-12
 url: /blog/20150412_bifff-predator
-categories: [ "Clients", "I shoot people", "Portrait", "Varia" ]
-tags: [ "alexandre lartaux", "bifff", "cosplay", "predator" ]
+categories: [ "Clients", "I shoot people", "Portrait", "Varia", "smoke" ]
+tags: [ "alexandre lartaux", "bifff", "cosplay", "predator", "smoke" ]
 format: gallery
 ---
 My subjects today are a bit frightening. 

@@ -2,7 +2,7 @@
 	<div class="widget">
 		<h3 class="widget-title">Contact me</h3>
 		<div class='vcard'>
-			<a href="http://www.pitslamp.be" class="fn org url" title="PitsLamp &mdash; Photography">PitsLamp Photography</a>
+			<a href="http://www.pitslamp.com" class="fn org url" title="PitsLamp &mdash; Photography">PitsLamp Photography</a>
 			<div class='adr'>
 			<div class='street-address'>Rue de l'etang 13</div>
 			<span class='postal-code'>B-1315</span>
@@ -14,13 +14,13 @@
 			</div>
 			<span class='mail_label'>
 				E.
-				<a href="mailto:info@pitslamp.be" class="email">info@pitslamp.be</a>
+				<a href="mailto:info@pitslamp.be" class="email">info@pitslamp.com</a>
 			</span>
 		</div>
 	</div>
 	<div class="widget">
 		<h3 class="widget-title">Recent Posts</h3>
-		  <ul>{{ range first 3 .Site.Pages }}
+		  <ul>{{ range first 3 (where .Site.Pages "Type" "post") }}
 		    <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
 		  {{end}}</ul>
 	</div>
@@ -28,7 +28,7 @@
 <div id="footer">
 
 							
-				<p class="copyright">Copyright &#169; 2015 <a class="site-link" href="http://www.pitslamp.com" title="PitsLamp Photography" rel="home"><span>PitsLamp Photography</span></a></p>
+				<p class="copyright">Copyright &#169; 2016 <a class="site-link" href="http://www.pitslamp.com" title="PitsLamp Photography" rel="home"><span>PitsLamp Photography</span></a></p>
 				
 			
 </div>

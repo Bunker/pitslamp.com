@@ -1,1 +1,4 @@
 public/
+.ssh/gandi_keys
+
+*.pub

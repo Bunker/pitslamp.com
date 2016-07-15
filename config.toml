@@ -17,8 +17,8 @@ rssURI = "feed"
   tag = "tags"
 
 [params]
-  logo = "/wp-content/uploads/2015/03/logo_pitslampcom.png"
-  description = "I shoot people"
+  logo = "/images/logo_pitslamp.png"
+  description = "Full service photography"
   email = "info@pitslamp.com"
   shortDescription = ""
   author = "Filip Bunkens"

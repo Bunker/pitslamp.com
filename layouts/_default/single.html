@@ -1,8 +1,9 @@
 {{ partial "head.html" . }}
 
-<body class="blog">
+<body class="{{ .Params.pagestyle }}">
 	{{ partial "header.html" . }}
 	{{ partial "navbar.html" . }}
+	{{ partial "promo.html" . }}
 	</div>
 	<div id="main">
 		<h1>{{ .Title }}</h1>
