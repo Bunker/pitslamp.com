@@ -1,6 +1,7 @@
 ---
-title: Concept and advertising
+title: PitsLamp Photograhy | Concept and advertising
 author: Filip Bunkens
+layout: page
 pagestyle: "portfolio"
 date: 2012-07-26
 menu:
@@ -22,8 +23,6 @@ This page contains my work for companies, advertising agencies and my own person
 * [![Cd and Record cases shown with a plane over head at sunset][9]][9]
 * [![Camping near the Jubelpark in Brussel][10]][10]
 * [![Service engineer arriving at the harbour for maintenance][11]][11]
-
-
 
 [1]: /images/portfolio/advertising/20120809_abb_rotterdam-2840.jpg
 [2]: /images/portfolio/advertising/20090419_belliard_ostend-2060.jpg
