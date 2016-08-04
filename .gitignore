@@ -2,6 +2,7 @@ public/
 .ssh/gandi_keys
 
 *.pub
+.DS_Store
 ./.git/objects/60/2dfaaec4282bb60a1da95c68d62e84ee3395dd
 ./.git/objects/67/2fba23e2bbcec08e7f3e7268845bb05571d756
 ./.git/objects/69/e99621278a75679bdfa30f3b018d5832372745
